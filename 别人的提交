@@ -1,4 +1,6 @@
 void test(void)
 {
   printf("test");
+printf("test");printf("test");
+  
 }
